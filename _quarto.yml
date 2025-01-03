@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "seekfileBlog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: eye
+        href: https://www.seekfile.net/
+format:
+  html:
+    theme: cosmo
+    css: styles.css

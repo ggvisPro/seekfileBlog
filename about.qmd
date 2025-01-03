@@ -1,0 +1,16 @@
+---
+title: "seekfile"
+image: jojo.jpg
+about:
+  template: jolla
+  links:
+    - icon: eye
+      text: seekfile
+      href: https://www.seekfile.net/
+    - icon: github
+      text: Github
+      href: https://github.com/ggvisPro/seekfileBlog
+
+---
+
+About this blog
